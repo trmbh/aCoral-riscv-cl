@@ -1,0 +1,20 @@
+{
+    "version": "0.1.0",
+    "files": [
+      {
+        "address": 0,
+        "bin": "acoral-kernel.bin",
+        "sha256Prefix": true
+      },
+      {
+        "address": 0x00C00000,
+        "bin": "mnist.kmodel",
+        "sha256Prefix": false
+      },
+      {
+        "address": 0x00D00000,
+        "bin": "mnist_images.bin",
+        "sha256Prefix": false
+      }
+    ]
+  }
